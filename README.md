@@ -10,7 +10,7 @@ I am actively seeking opportunities to collaborate on exciting hobby projects. W
 
 If you would like to connect or discuss potential opportunities, please feel free to reach out to me using the contact information provided below. I am open to discussing ideas, collaborating on projects, or exploring career opportunities.
 
-## **Important note: All of the projects that I have worked on are for university projects or the VEX robotics teams that I have been on in the past. As I mentioned, use the affiliated links to reach out to me if you would like to see what I have worked on so far!**
+## **Important note: Most of the projects that I have worked on are for university projects or the VEX robotics teams that I have been on in the past. As I mentioned, use the affiliated links to reach out to me if you would like to see what I have worked on so far! There are three repos for the respective parts of my life: highschool, robotics, and university**
 
 How to reach me:
 
