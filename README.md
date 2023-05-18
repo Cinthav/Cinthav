@@ -12,7 +12,7 @@ If you would like to connect or discuss potential opportunities, please feel fre
 
 How to reach me:
 
-    Email: inthavCC@gmail.com
+    Email: Please check the links on my profile and reach out to me from there!
     LinkedIn: https://www.linkedin.com/in/christopher-inthavong-b252a1238/
 
 Thank you for visiting my profile, and I look forward to connecting with you!
