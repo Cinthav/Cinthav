@@ -2,9 +2,13 @@ Hello, welcome to @Cinthav's GitHub profile page!
 
 My name is Christopher Inthavong. I am highly motivated computer science student pursuing a B.S. for Computer Science, and currently a senior. I am eager to learn new things from the different subsets in this field.
 
-My primary focus is on expanding my knowledge and expertise in various programming domains. I am currently considering specialization in Artificial Intelligence as I take on an introductary course this semester.
+My primary focus is on expanding my knowledge and expertise in various programming domains. I am currently considering specialization in Artificial Intelligence as I take on an introductory course this semester.
 
 I have taken courses in (but not limited to):
+Operating Systems, OO Software Design and Maintenence, and ... (to be updated)
+
+Technical skills and tools (not limited to, and ranging from somewhat proficient to niche use):
+Java, C, Python, SQL, Go.
 
 I also have experience with high school and university level VEX robotics (C++ based coding mainly).
 - Collaborated with team members to program motors and even helped build the robots.
