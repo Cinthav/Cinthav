@@ -14,7 +14,7 @@ I also have experience with high school and university level VEX robotics (C++ b
 - Collaborated with team members to program motors and even helped build the robots.
 If you would like to connect or discuss potential opportunities, please feel free to reach out to me using the contact information provided below. I am open to discussing ideas, collaborating on projects, or exploring career opportunities.
 
-## **Important note: Most of the projects that I have worked on are for university. I will not be able to share the original code, but entirely new projects based on the same specifications.**
+## **Important note: Most of the projects that I have worked on are for university. I will not be able to share the original code, but I plan to make entirely new projects based on the same specifications.**
 
 How to reach me:
     LinkedIn: https://www.linkedin.com/in/christopher-inthavong-b252a1238/
