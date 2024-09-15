@@ -5,7 +5,7 @@ My name is Christopher Inthavong. I am highly motivated computer science student
 My primary focus is on expanding my knowledge and expertise in various programming domains. I am currently considering specialization in Artificial Intelligence as I take on an introductory course this semester.
 
 I have taken courses in (but not limited to):
-Operating Systems, OO Software Design and Maintenence, and ... (to be updated)
+Operating Systems, OO Software Design and Maintenence, and more.
 
 Technical skills and tools (not limited to, and ranging from somewhat proficient to niche use):
 Java, C, Python, SQL, Go.
